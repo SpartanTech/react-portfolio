@@ -40,9 +40,9 @@ const Contact = () => {
         'template_5g175sf',
         {
           from_name: form.name,
-          to_name: "Aarti Rathi",
+          to_name: "Zack V",
           from_email: form.email,
-          to_email: "aarti.rathi1710@gmail.com",
+          to_email: "zack@starkindustries.io",
           message: form.message,
         },
         'FMQ4a1hK5NSAkumfj',
@@ -136,7 +136,7 @@ const Contact = () => {
         <div className="mt-5 contact__options">
           <article className="contact__option">
             <MdEmail />
-            <a href="mailto:aarti.rathi1710@gmail.com" target="_blank" className="blue-text-gradient">aarti.rathi1710@gmail.com</a>
+            <a href="mailto:zack@starkindustries.io" target="_blank" className="blue-text-gradient">zack@starkindustries.io</a>
           </article>
           <article className="contact__option">
             <BsWhatsapp />

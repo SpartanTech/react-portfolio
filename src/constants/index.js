@@ -572,7 +572,7 @@ import {
         "Collaborating with cross-functional technologies like spring boot, react etc. to integrate high-quality products.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
-      link: "https://github.com/codewithrathi",
+      link: "https://github.com/SpartanTech",
     },
     {
       title: "DSA Mentor",
